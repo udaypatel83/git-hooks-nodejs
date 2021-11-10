@@ -1,3 +1,3 @@
-const mult = (a,b) => a*b*2
+const mult = (a,b) => a*b
 
 module.exports = mult
